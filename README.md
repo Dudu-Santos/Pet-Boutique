@@ -1,5 +1,5 @@
 # Pet-Boutique
-Página estática para divulgação do Pet Shop PET BOUTIQUE
+Página estática dividida em 07 seções: BANNER com imagem de fundo, SERVIÇOS do Pet Shop, FAIXA com links das redes sociais, FAIXA com marcas que o Pet Shop trabalha, outra FAIXA com links das redes sociais, MAPA com localização do Pet Shop e Rodapé com nome do desenvolvedor.
 
 ## Funcionalidades
 
